@@ -51,9 +51,9 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 
 ## 📂 GitHub Stats
 
-![Mikhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhanbalbastro&show_icons=true&theme=github_dark)
+![Mikhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhan-TMP&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhanbalbastro&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhan-TMP&layout=compact&theme=github_dark)
 
 ---
 
