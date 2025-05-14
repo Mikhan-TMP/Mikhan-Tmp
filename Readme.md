@@ -50,8 +50,6 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 ---
 
 ## 📂 GitHub Stats
-
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mikhan-TMP&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhan-TMP&layout=compact&theme=github_dark&hide_border=true" />
@@ -61,6 +59,18 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Mikhan-TMP&theme=github-dark&hide_border=true" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhan-TMP&theme=github_dark" />
 </p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mikhan-TMP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Mikhan-TMP/Mikhan-TMP/blob/output/github-contribution-grid-snake.svg)
+
+
+## 📌 Featured Projects
+
+[![Readme Generator](https://img.shields.io/badge/🛠️%20Readme%20Generator-blue?style=for-the-badge)](https://github.com/Mikhan-TMP/readme-generator)
+[![Chatbot AI](https://img.shields.io/badge/🤖%20Chatbot%20AI-green?style=for-the-badge)](https://github.com/Mikhan-TMP/chatbot-ai)
 
 
 ## 🏆 GitHub Trophies
