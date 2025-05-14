@@ -6,8 +6,8 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 
 ## 🚀 What I'm Working On
 
-- 🤖 **AI Chatbot Platform** – A smart assistant with editable conversations, dynamic responses, and MongoDB integration
-- 🏫 **School Kiosk System** – A real-time attendance and information system using card-based inputs and REST APIs
+- 🤖 **AI Chatbot Platform** – A smart assistant with editable conversations, dynamic responses, and MongoDB integration  
+- 🏫 **School Kiosk System** – A real-time attendance and information system using card-based inputs and REST APIs  
 - 🧠 Improving AI prompt pipelines and learning how to make them more context-aware and user-specific
 
 ---
@@ -15,73 +15,82 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 ## 🛠️ Tech Stack
 
 ### 🧩 Frontend
-- React.js / Next.js
-- Tailwind CSS / Framer Motion
+- React.js / Next.js  
+- Tailwind CSS / Framer Motion  
 - TypeScript / JavaScript
 
 ### 🛠️ Backend
-- Node.js / NestJS
-- MongoDB / Mongoose
+- Node.js / NestJS  
+- MongoDB / Mongoose  
 - REST APIs / WebSockets
 
 ### 🔧 Others
-- CodeIgniter 3 (Legacy PHP Projects)
-- Git / GitHub
-- Postman, Swagger (API testing/documentation)
+- CodeIgniter 3 (Legacy PHP Projects)  
+- Git / GitHub  
+- Postman, Swagger (API testing/documentation)  
 - VS Code / SSH / Docker basics
 
 ---
 
 ## 🌟 Featured Skills & Strengths
 
-- ✅ Clean, readable, and maintainable code
-- ✅ Experience in monorepo and fullstack development setups
-- ✅ Fluent in both frontend design and backend architecture
-- ✅ API-first mindset with OAuth2 integrations
+- ✅ Clean, readable, and maintainable code  
+- ✅ Experience in monorepo and fullstack development setups  
+- ✅ Fluent in both frontend design and backend architecture  
+- ✅ API-first mindset with OAuth2 integrations  
 - ✅ Enthusiastic team player and fast learner
 
 ---
 
 ## 📫 How to Reach Me
 
-- 📧 Email: mikhanbalbastro14@gmail.com
-- 💼 LinkedIn: [https://ph.linkedin.com/in/mikhan-balbastro](https://linkedin.com)
+- 📧 Email: [mikhanbalbastro14@gmail.com](mailto:mikhanbalbastro14@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mikhan-balbastro](https://linkedin.com/in/mikhan-balbastro)
 
 ---
 
 ## 📂 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mikhan-TMP&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhan-TMP&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Mikhan-TMP&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Mikhan-TMP&theme=github-dark&hide_border=true" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhan-TMP&theme=github_dark" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mikhan-TMP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mikhan-TMP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Mikhan-TMP/Mikhan-TMP/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 ## 📌 Featured Projects
 
 [![Readme Generator](https://img.shields.io/badge/🛠️%20Readme%20Generator-blue?style=for-the-badge)](https://github.com/Mikhan-TMP/readme-generator)
 [![Chatbot AI](https://img.shields.io/badge/🤖%20Chatbot%20AI-green?style=for-the-badge)](https://github.com/Mikhan-TMP/chatbot-ai)
 
+---
 
 ## 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Mikhan-TMP&theme=github-dark&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
 ## 🎯 Fun Facts
 
-- 🎓 Lifelong learner – always exploring new frameworks and tools
-- 💬 I enjoy mentoring others and sharing tech tips with junior devs
-- 🎮 Gamer on weekends, especially RPGs and strategy games
+- 🎓 Lifelong learner – always exploring new frameworks and tools  
+- 💬 I enjoy mentoring others and sharing tech tips with junior devs  
+- 🎮 Gamer on weekends, especially RPGs and strategy games  
 - 🧩 Hobbies include drawing, tinkering with AI, and reading dev blogs
 
 ---
