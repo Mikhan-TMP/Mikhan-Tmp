@@ -67,12 +67,6 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Mikhan-TMP/Mikhan-TMP/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📌 Featured Projects
 
 [![Readme Generator](https://img.shields.io/badge/🛠️%20Readme%20Generator-blue?style=for-the-badge)](https://github.com/Mikhan-TMP/readme-generator)
