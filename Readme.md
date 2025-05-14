@@ -61,9 +61,7 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhan-TMP&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mikhan-TMP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
-</p>
+
 
 ---
 
