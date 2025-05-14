@@ -51,9 +51,7 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 
 ## 📂 GitHub Stats
 
-![Mikhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhan-TMP&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhan-TMP&layout=compact&theme=github_dark)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mikhan-TMP&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhan-TMP&layout=compact&theme=github_dark&hide_border=true" />
