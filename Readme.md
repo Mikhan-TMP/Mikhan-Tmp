@@ -63,7 +63,11 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Mikhan-TMP&theme=github-dark&hide_border=true" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhan-TMP&theme=github_dark" />
 </p>
----
+
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mikhan-TMP&theme=github-dark&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎯 Fun Facts
 
