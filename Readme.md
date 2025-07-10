@@ -8,7 +8,6 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 
 - 🤖 **AI Chatbot Platform** – A smart assistant with editable conversations, dynamic responses, and MongoDB integration  
 - 🏫 **School Kiosk System** – A real-time attendance and information system using card-based inputs and REST APIs  
-- 🧠 Improving AI prompt pipelines and learning how to make them more context-aware and user-specific
 
 ---
 
