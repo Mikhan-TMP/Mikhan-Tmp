@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Mikhan C. Balbastro
 
-I'm a **Full Stack Developer** based in the **Philippines**, passionate about building impactful digital solutions and pushing the limits of what technology can do. I love turning ideas into reality through clean, efficient code and intuitive UI/UX.
+I'm a **Full Stack Developer** and **Mobile App Developer** based in the **Philippines**, passionate about building impactful digital solutions and pushing the limits of what technology can do. I love turning ideas into reality through clean, efficient code and intuitive UI/UX.
 
 ---
 
 ## 🚀 What I'm Working On
-
-- 🤖 **AI Chatbot Platform** – A smart assistant with editable conversations, dynamic responses, and MongoDB integration  
-- 🏫 **School Kiosk System** – A real-time attendance and information system using card-based inputs and REST APIs  
-
+- 📱 **iOS Mobile Applications** – Building smooth, scalable, and user-friendly native apps using Swift & Objective-C
 ---
 
 ## 🛠️ Tech Stack
@@ -17,6 +14,7 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 - React.js / Next.js  
 - Tailwind CSS / Framer Motion  
 - TypeScript / JavaScript
+- Objective C / SwiftUI
 
 ### 🛠️ Backend
 - Node.js / NestJS  
@@ -66,8 +64,7 @@ I'm a **Full Stack Developer** based in the **Philippines**, passionate about bu
 
 ## 📌 Featured Projects
 
-[![Readme Generator](https://img.shields.io/badge/🛠️%20Readme%20Generator-blue?style=for-the-badge)](https://github.com/Mikhan-TMP/readme-generator)
-[![Chatbot AI](https://img.shields.io/badge/🤖%20Chatbot%20AI-green?style=for-the-badge)](https://github.com/Mikhan-TMP/chatbot-ai)
+[![Cover Letter Generator](https://img.shields.io/badge/🤖%20Chatbot%20AI-green?style=for-the-badge)](https://github.com/Mikhan-TMP/chatbot-ai)
 
 ---
 
